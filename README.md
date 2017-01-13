@@ -1,2 +1,2 @@
-# cmpe273-lab2
+# Simple RPC Application
 Lab 2
